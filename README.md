@@ -12,4 +12,4 @@ A clone of WhatsApp app for Android
 * Server:	
 	* Firebase Auth: For user authentication
 	* Firebase Realtime Database: For storing users' messages
-* Client: Native Android App built with Kotlin for User interface
+* Client: Native Android App built with Java for User interface
